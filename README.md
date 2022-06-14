@@ -1,5 +1,5 @@
 ### Hi, I'm Nigel
-### I like to Code 👨‍💻, [3D Model](https://www.artstation.com/nigelmunro)![blender_logo](https://raw.githubusercontent.com/munro98/munro98/master/Blender_logo_no_text.svg.png=120x), build and fly FPV drones
+### I like to Code 👨‍💻, [3D Model](https://www.artstation.com/nigelmunro) <img src="https://raw.githubusercontent.com/munro98/munro98/master/icons/Blender_logo_no_text.svg.png" width="25">, build and fly FPV drones 🚁
  
 
 <!--
